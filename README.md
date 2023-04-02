@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+# This project is created to illustrate the redux library and several other react components
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
